@@ -12,7 +12,7 @@ Begin VB.Form formulario
    Begin VB.Data Data1 
       Caption         =   "Data1"
       Connect         =   "Access"
-      DatabaseName    =   "C:\Users\Kevin\Desktop\Romeo\Todo en uno\Clientes.mdb"
+      DatabaseName    =   "D:\Escritorio\Romeo\Todo en uno\Clientes.mdb"
       DefaultCursorType=   0  'DefaultCursor
       DefaultType     =   2  'UseODBC
       Exclusive       =   0   'False
